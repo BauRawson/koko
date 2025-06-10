@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1749496381|2529717990';
+const CACHE_VERSION = '1749541754|21765144970';
 /** @type {string} */
 const CACHE_PREFIX = 'Koko&Friends-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
